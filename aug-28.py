@@ -1,6 +1,6 @@
 # lambda function
     # lambda arguments:expression
-'''
+
 # def func(number):
 #     print(number*number)    #number**2 vaneko square
 # func(3)
@@ -69,7 +69,6 @@ function= lambda num: num%2==0
 
 result = filter(function,a)
 print(list(result))
-'''
 
 from functools import reduce
 
